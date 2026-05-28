@@ -259,29 +259,6 @@
       "alternatives": [
         { "name": "Natumi", "keyword": "natumi" },
         { "name": "Berief", "keyword": "berief" }
-      
-    {
-      "keywords": ["alpro", "alpro soja", "alpro hafer"],
-      "brand": "Alpro",
-      "parent": "Danone",
-      "status": "RED",
-      "reason": "Gehört zum Molkereiriesen Danone.",
-      "sources": ["https://de.wikipedia.org/wiki/Alpro"],
-      "alternatives": [
-        { "name": "Natumi", "keyword": "natumi" },
-        { "name": "Berief", "keyword": "berief" }
-      ]
-    },
-    {
-      "keywords": ["oatly", "oatly barista"],
-      "brand": "Oatly",
-      "parent": "Oatly Group",
-      "status": "YELLOW",
-      "reason": "Beteiligung der umstrittenen Investmentgesellschaft Blackstone.",
-      "sources": ["https://www.zeit.de/wirtschaft/unternehmen/2020-09/oatly-hafermilch-blackstone-investment-kritik"],
-      "alternatives": [
-        { "name": "Share", "keyword": "share" },
-        { "name": "Vly", "keyword": "vly" }
       ]
     }
   ]
