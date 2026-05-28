@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-05-28",
+  "last_updated": "2026-05-29",
   "entries": [
     {
       "keywords": ["alpro", "alpro soja", "alpro hafer"],
@@ -18,7 +18,7 @@
       "keywords": ["oatly", "oatly barista"],
       "brand": "Oatly",
       "parent": "Oatly Group",
-      "status": "YELLOW",
+      "status": "RED",
       "reason": "Beteiligung der umstrittenen Investmentgesellschaft Blackstone.",
       "sources": ["https://www.zeit.de/wirtschaft/unternehmen/2020-09/oatly-hafermilch-blackstone-investment-kritik"],
       "alternatives": [
