@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-database:
-    if: startsWith(github.event.issue.title, 'Add:')
+    if: github.actor == 'derBoedi' && startsWith(github.event.issue.title, 'Add:')
     runs-on: ubuntu-latest
     permissions:
       contents: write
