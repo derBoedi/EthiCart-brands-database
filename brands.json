@@ -557,6 +557,33 @@
           "keyword": "ortlieb made in germany"
         }
       ]
+    },
+    {
+      "keywords": [
+        "abus",
+        "fahrradschloss",
+        "sicherheitstechnik",
+        "abus schließanlagen",
+        "abus helm"
+      ],
+      "brand": "Abus",
+      "parent": "Abus August Bremicker Söhne KG",
+      "status": "GREEN",
+      "reason": "Für die Marke Abus konnten im Rahmen der Recherche keine öffentlich bekannten oder belegten Verstrickungen in rechte Ideologien, Fälle von Ausbeutung, Sexismus oder neokolonialistischen Praktiken identifiziert werden. Das Unternehmen fokussiert sich primär auf die Produktion von Sicherheitstechnik mit einem hohen Anteil an 'Made in Germany'-Produkten. Diese Abwesenheit negativer Berichte in den spezifisch angefragten Bereichen führt zur grünen Bewertung.",
+      "sources": [
+        "Allgemeine öffentliche Informationen und Nachrichtensuchen lieferten keine Belege für die angefragten ethischen Verstrickungen.",
+        "Unternehmenswebsite abus.com (für Unternehmensprofil und Produktinformationen)"
+      ],
+      "alternatives": [
+        {
+          "name": "Burg-Wächter",
+          "keyword": "burg wächter sicherheitstechnik"
+        },
+        {
+          "name": "Trelock",
+          "keyword": "trelock fahrradschlösser"
+        }
+      ]
     }
   ]
 }
