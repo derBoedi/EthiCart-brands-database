@@ -1,46 +1,91 @@
 {
   "version": "1.1.0",
-  "last_updated": "2026-05-28",
+  "last_updated": "2026-05-29",
   "entries": [
     {
-      "keywords": ["müller", "müllermilch", "müller milch", "weihenstephan", "sachsenmilch"],
+      "keywords": [
+        "müller",
+        "müllermilch",
+        "müller milch",
+        "weihenstephan",
+        "sachsenmilch"
+      ],
       "brand": "Müller (Müllermilch)",
       "parent": "Unternehmensgruppe Theo Müller",
       "status": "RED",
       "reason": "Enge Freundschaft von Theo Müller zu AfD-Chefin Alice Weidel und öffentliche Sympathiebekundungen. Gerichtlich bestätigt: Campact darf die Aussage 'Theo Müller unterstützt die AfD' legal verbreiten.",
       "sources": [],
       "alternatives": [
-        { "name": "Schwarzwaldmilch", "keyword": "schwarzwaldmilch" },
-        { "name": "Hemme Milch", "keyword": "hemme" }
+        {
+          "name": "Schwarzwaldmilch",
+          "keyword": "schwarzwaldmilch"
+        },
+        {
+          "name": "Hemme Milch",
+          "keyword": "hemme"
+        }
       ]
     },
     {
-      "keywords": ["ferrero", "nutella", "kinder schokolade", "kinder überraschung", "hanuta", "duplo"],
+      "keywords": [
+        "ferrero",
+        "nutella",
+        "kinder schokolade",
+        "kinder überraschung",
+        "hanuta",
+        "duplo"
+      ],
       "brand": "Ferrero",
       "parent": "Ferrero International S.A.",
       "status": "YELLOW",
       "reason": "Rassistische PR-Kampagne 2013, anhaltende Vorwürfe wegen Kinderarbeit/Ausbeutung in Lieferketten (Kakao, Haselnüsse), stereotypes Gendermarketing.",
       "sources": [],
       "alternatives": [
-        { "name": "Nudossi", "keyword": "nudossi" },
-        { "name": "Gepa", "keyword": "gepa" },
-        { "name": "Vego", "keyword": "vego" }
+        {
+          "name": "Nudossi",
+          "keyword": "nudossi"
+        },
+        {
+          "name": "Gepa",
+          "keyword": "gepa"
+        },
+        {
+          "name": "Vego",
+          "keyword": "vego"
+        }
       ]
     },
     {
-      "keywords": ["bahlsen", "leibniz", "pick up", "brandt"],
+      "keywords": [
+        "bahlsen",
+        "leibniz",
+        "pick up",
+        "brandt"
+      ],
       "brand": "Bahlsen",
       "parent": "Bahlsen",
       "status": "RED",
       "reason": "Geschichtsrevisionismus durch Verharmlosung von NS-Zwangsarbeit (Verena Bahlsen, 2019). Jahrzehntelange Nutzung des kolonial-rassistischen Produktnamens 'Afrika'.",
       "sources": [],
       "alternatives": [
-        { "name": "Alnatura", "keyword": "alnatura" },
-        { "name": "DeBeukelaer", "keyword": "debeukelaer" }
+        {
+          "name": "Alnatura",
+          "keyword": "alnatura"
+        },
+        {
+          "name": "DeBeukelaer",
+          "keyword": "debeukelaer"
+        }
       ]
     },
     {
-      "keywords": ["dr. oetker", "dr oetker", "oetker", "ristorante", "paula"],
+      "keywords": [
+        "dr. oetker",
+        "dr oetker",
+        "oetker",
+        "ristorante",
+        "paula"
+      ],
       "brand": "Dr. Oetker",
       "parent": "Oetker-Gruppe",
       "status": "GREEN",
@@ -49,43 +94,85 @@
       "alternatives": []
     },
     {
-      "keywords": ["danone", "actimel", "activia", "fruchtzwerge", "volvic", "evian"],
+      "keywords": [
+        "danone",
+        "actimel",
+        "activia",
+        "fruchtzwerge",
+        "volvic",
+        "evian"
+      ],
       "brand": "Danone",
       "parent": "Danone S.A.",
       "status": "YELLOW",
       "reason": "Aggressive, gesundheitsgefährdende Vermarktung von Muttermilchersatz im Globalen Süden, neokoloniale Wasserprivatisierung. Unethische Konzernpraktiken.",
       "sources": [],
       "alternatives": [
-        { "name": "Berief", "keyword": "berief" },
-        { "name": "Voelkel", "keyword": "voelkel" }
+        {
+          "name": "Berief",
+          "keyword": "berief"
+        },
+        {
+          "name": "Voelkel",
+          "keyword": "voelkel"
+        }
       ]
     },
     {
-      "keywords": ["nestlé", "nestle", "maggi", "thomy", "wagner", "kitkat", "vittel"],
+      "keywords": [
+        "nestlé",
+        "nestle",
+        "maggi",
+        "thomy",
+        "wagner",
+        "kitkat",
+        "vittel"
+      ],
       "brand": "Nestlé",
       "parent": "Nestlé S.A.",
       "status": "RED",
       "reason": "Neokoloniale Ausbeutung, rassistische Doppelmoral (Zuckerung von Babynahrung in afrikanischen Ländern). Strafanzeigen wegen vertuschter Bakterien in Säuglingsmilch. Ausnutzen patriarchaler Machtstrukturen.",
       "sources": [],
       "alternatives": [
-        { "name": "Gepa", "keyword": "gepa" },
-        { "name": "Rapunzel", "keyword": "rapunzel" }
+        {
+          "name": "Gepa",
+          "keyword": "gepa"
+        },
+        {
+          "name": "Rapunzel",
+          "keyword": "rapunzel"
+        }
       ]
     },
     {
-      "keywords": ["google", "alphabet", "pixel", "youtube"],
+      "keywords": [
+        "google",
+        "alphabet",
+        "pixel",
+        "youtube"
+      ],
       "brand": "Google",
       "parent": "Alphabet Inc.",
       "status": "RED",
       "reason": "Spenden an rechtskonservative US-Politiker. Massive Klagen wegen systematischem Rassismus (2025 beigelegt). Vertuschung von sexueller Belästigung im Management und Gender Pay Gap.",
       "sources": [],
       "alternatives": [
-        { "name": "Ecosia", "keyword": "ecosia" },
-        { "name": "DuckDuckGo", "keyword": "duckduckgo" }
+        {
+          "name": "Ecosia",
+          "keyword": "ecosia"
+        },
+        {
+          "name": "DuckDuckGo",
+          "keyword": "duckduckgo"
+        }
       ]
     },
     {
-      "keywords": ["fritz kola", "fritz-kola", "fritz"],
+      "keywords": [
+        "fritz kola",
+        "fritz-kola",
+        "fritz"
+      ],
       "brand": "Fritz Kola",
       "parent": "fritz-kola GmbH",
       "status": "GREEN",
@@ -94,19 +181,36 @@
       "alternatives": []
     },
     {
-      "keywords": ["lay's", "lays", "pepsi", "pepsico", "doritos"],
+      "keywords": [
+        "lay's",
+        "lays",
+        "pepsi",
+        "pepsico",
+        "doritos"
+      ],
       "brand": "Lay's",
       "parent": "PepsiCo",
       "status": "RED",
       "reason": "Spenden an rechte US-Republikaner. Jahrzehntelanges Festhalten an rassistischen Werbe-Stereotypen ('Aunt Jemima'). Kommerzialisierung von Bürgerrechtsprotesten und sexistisches Gendermarketing.",
       "sources": [],
       "alternatives": [
-        { "name": "Funnyfrisch", "keyword": "funnyfrisch" },
-        { "name": "Kesselchips", "keyword": "kesselchips" }
+        {
+          "name": "Funnyfrisch",
+          "keyword": "funnyfrisch"
+        },
+        {
+          "name": "Kesselchips",
+          "keyword": "kesselchips"
+        }
       ]
     },
     {
-      "keywords": ["funnyfrisch", "funny frisch", "intersnack", "chio"],
+      "keywords": [
+        "funnyfrisch",
+        "funny frisch",
+        "intersnack",
+        "chio"
+      ],
       "brand": "Funnyfrisch",
       "parent": "Intersnack Group",
       "status": "GREEN",
@@ -115,7 +219,11 @@
       "alternatives": []
     },
     {
-      "keywords": ["mio mio", "mio mio mate", "vivaris"],
+      "keywords": [
+        "mio mio",
+        "mio mio mate",
+        "vivaris"
+      ],
       "brand": "Mio Mio",
       "parent": "Vivaris Getränke GmbH",
       "status": "GREEN",
@@ -124,7 +232,10 @@
       "alternatives": []
     },
     {
-      "keywords": ["katjes", "jes jes jes"],
+      "keywords": [
+        "katjes",
+        "jes jes jes"
+      ],
       "brand": "Katjes",
       "parent": "Katjes Fassin GmbH + Co. KG",
       "status": "GREEN",
@@ -133,42 +244,71 @@
       "alternatives": []
     },
     {
-      "keywords": ["haribo", "color-rado", "goldbären", "maoam"],
+      "keywords": [
+        "haribo",
+        "color-rado",
+        "goldbären",
+        "maoam"
+      ],
       "brand": "Haribo",
       "parent": "Haribo",
       "status": "RED",
       "reason": "Verweigerung der Einzahlung in den Stiftungsfonds zur Entschädigung von NS-Zwangsarbeitern. Verkauf rassistischer Lakritzfiguren bis 2014. Nachgewiesene sklavenähnliche Ausbeutung bei Carnaubawachs.",
       "sources": [],
       "alternatives": [
-        { "name": "Katjes", "keyword": "katjes" }
+        {
+          "name": "Katjes",
+          "keyword": "katjes"
+        }
       ]
     },
     {
-      "keywords": ["anthropic", "claude"],
+      "keywords": [
+        "anthropic",
+        "claude"
+      ],
       "brand": "Anthropic",
       "parent": "Anthropic",
       "status": "YELLOW",
       "reason": "Verweigert militärische Kooperationen, pumpt aber zeitgleich 20 Mio. Dollar in ein Lobby-Netzwerk zur Finanzierung stramm rechter, antifeministischer US-Republikaner.",
       "sources": [],
       "alternatives": [
-        { "name": "Mistral AI", "keyword": "mistral" }
+        {
+          "name": "Mistral AI",
+          "keyword": "mistral"
+        }
       ]
     },
     {
-      "keywords": ["abus", "abus schloss"],
+      "keywords": [
+        "abus",
+        "abus schloss"
+      ],
       "brand": "Abus",
       "parent": "August Bremicker Söhne KG",
       "status": "RED",
       "reason": "Massiver struktureller Sexismus. Radikal-evangelikales Weltbild der Eigentümerfamilie; Töchter werden per Erbverzicht systematisch von Führungspositionen und Anteilen ausgeschlossen.",
       "sources": [],
       "alternatives": [
-        { "name": "Burg-Wächter", "keyword": "burg-wächter" },
-        { "name": "Trelock", "keyword": "trelock" },
-        { "name": "Kryptonite", "keyword": "kryptonite" }
+        {
+          "name": "Burg-Wächter",
+          "keyword": "burg-wächter"
+        },
+        {
+          "name": "Trelock",
+          "keyword": "trelock"
+        },
+        {
+          "name": "Kryptonite",
+          "keyword": "kryptonite"
+        }
       ]
     },
     {
-      "keywords": ["tempo", "taschentücher"],
+      "keywords": [
+        "tempo",
+        "taschentücher"
+      ],
       "brand": "Tempo",
       "parent": "Essity AB",
       "status": "GREEN",
@@ -177,7 +317,10 @@
       "alternatives": []
     },
     {
-      "keywords": ["sebamed", "seba med"],
+      "keywords": [
+        "sebamed",
+        "seba med"
+      ],
       "brand": "Sebamed",
       "parent": "Sebapharma GmbH & Co. KG",
       "status": "GREEN",
@@ -186,7 +329,9 @@
       "alternatives": []
     },
     {
-      "keywords": ["dexeryl"],
+      "keywords": [
+        "dexeryl"
+      ],
       "brand": "Dexeryl",
       "parent": "Pierre Fabre",
       "status": "GREEN",
@@ -195,19 +340,30 @@
       "alternatives": []
     },
     {
-      "keywords": ["physiogel", "physio gel"],
+      "keywords": [
+        "physiogel",
+        "physio gel"
+      ],
       "brand": "Physiogel",
       "parent": "Klinge Pharma GmbH",
       "status": "YELLOW",
       "reason": "Sexismus- und Vertuschungsskandal (2024/2025) am finanzierten Ernst-Strüngmann-Institut: sexuelle Belästigung, systematisches Mobbing von Forscherinnen, Täterschutz durch Leitung.",
       "sources": [],
       "alternatives": [
-        { "name": "Sebamed", "keyword": "sebamed" },
-        { "name": "Dexeryl", "keyword": "dexeryl" }
+        {
+          "name": "Sebamed",
+          "keyword": "sebamed"
+        },
+        {
+          "name": "Dexeryl",
+          "keyword": "dexeryl"
+        }
       ]
     },
     {
-      "keywords": ["bionade"],
+      "keywords": [
+        "bionade"
+      ],
       "brand": "Bionade",
       "parent": "Hassia-Gruppe",
       "status": "GREEN",
@@ -216,19 +372,32 @@
       "alternatives": []
     },
     {
-      "keywords": ["linola", "alpecin", "plantur 39", "vagisan"],
+      "keywords": [
+        "linola",
+        "alpecin",
+        "plantur 39",
+        "vagisan"
+      ],
       "brand": "Linola",
       "parent": "Dr. August Wolff GmbH & Co. KG",
       "status": "YELLOW",
       "reason": "Aggressives, veraltetes Gender-Marketing. Schwestermarke Vagisan nutzt gezielte Tabuisierung und Verunsicherung von Frauen über normale Körperfunktionen für den Verkauf.",
       "sources": [],
       "alternatives": [
-        { "name": "Sebamed", "keyword": "sebamed" },
-        { "name": "Dexeryl", "keyword": "dexeryl" }
+        {
+          "name": "Sebamed",
+          "keyword": "sebamed"
+        },
+        {
+          "name": "Dexeryl",
+          "keyword": "dexeryl"
+        }
       ]
     },
     {
-      "keywords": ["opinel"],
+      "keywords": [
+        "opinel"
+      ],
       "brand": "Opinel",
       "parent": "Opinel SAS",
       "status": "GREEN",
@@ -237,28 +406,95 @@
       "alternatives": []
     },
     {
-      "keywords": ["oatly", "oatly barista"],
+      "keywords": [
+        "oatly",
+        "oatly barista"
+      ],
       "brand": "Oatly",
       "parent": "Oatly Group AB",
       "status": "YELLOW",
       "reason": "Großinvestor Blackstone: Dessen Chef ist massiver Finanzier von Donald Trump und rechten Republikanern. Verstrickungen in indigene Vertreibungen und illegale Abholzung.",
       "sources": [],
       "alternatives": [
-        { "name": "Share", "keyword": "share" },
-        { "name": "Vly", "keyword": "vly" },
-        { "name": "Berief", "keyword": "berief" }
+        {
+          "name": "Share",
+          "keyword": "share"
+        },
+        {
+          "name": "Vly",
+          "keyword": "vly"
+        },
+        {
+          "name": "Berief",
+          "keyword": "berief"
+        }
       ]
     },
     {
-      "keywords": ["alpro", "alpro soja", "alpro hafer"],
+      "keywords": [
+        "alpro",
+        "alpro soja",
+        "alpro hafer"
+      ],
       "brand": "Alpro",
       "parent": "Danone S.A.",
       "status": "YELLOW",
       "reason": "Teilt die Bedenken des Mutterkonzerns Danone (neokoloniale Doppelmoral bei Babynahrung). Verschärft durch Strafanzeige wegen vertuschter Bakterien in Säuglingsmilch.",
       "sources": [],
       "alternatives": [
-        { "name": "Natumi", "keyword": "natumi" },
-        { "name": "Berief", "keyword": "berief" }
+        {
+          "name": "Natumi",
+          "keyword": "natumi"
+        },
+        {
+          "name": "Berief",
+          "keyword": "berief"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "knorr",
+        "unilever",
+        "lebensmittel",
+        "nahrungsmittel",
+        "suppen",
+        "saucen",
+        "bouillon",
+        "ethik",
+        "ausbeutung",
+        "lieferkette",
+        "neokolonialismus",
+        "palmöl",
+        "tee"
+      ],
+      "brand": "Knorr",
+      "parent": "Unilever",
+      "status": "YELLOW",
+      "reason": "Knorr, als Marke von Unilever, ist wiederholt aufgrund ethischer Bedenken in den globalen Lieferketten des Mutterkonzerns kritisiert worden. Diese umfassen Vorwürfe von Ausbeutung durch unzureichende Arbeitsbedingungen und niedrige Löhne für Bauern und Arbeiter in Entwicklungsländern, insbesondere bei Rohstoffen wie Palmöl und Tee. Solche Praktiken sowie der Einfluss auf lokale Märkte werden oft im Kontext von Neokolonialismus diskutiert, während keine substanziellen Beweise für rechte Verstrickungen oder spezifischen Sexismus vorliegen.",
+      "sources": [
+        "https://www.oxfam.org/en/press-releases/unilever-and-struggles-tea-workers-assam",
+        "https://www.business-humanrights.org/en/latest-news/unilever-faces-questions-over-living-wages-tea-plantation-workers/",
+        "https://www.amnesty.org/en/latest/news/2016/11/palm-oil-companies-must-clean-up-their-act/",
+        "https://www.rainforest-alliance.org/articles/palm-oil-and-unilever/"
+      ],
+      "alternatives": [
+        {
+          "name": "Alnatura",
+          "keyword": "alnatura"
+        },
+        {
+          "name": "Demeter",
+          "keyword": "demeter"
+        },
+        {
+          "name": "Sonnentor",
+          "keyword": "sonnentor gewürze bio"
+        },
+        {
+          "name": "Bio Zentrale",
+          "keyword": "bio zentrale"
+        }
       ]
     }
   ]
