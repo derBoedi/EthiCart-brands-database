@@ -528,6 +528,35 @@
           "keyword": "schlossreparatur schlüsseldienst"
         }
       ]
+    },
+    {
+      "keywords": [
+        "abus",
+        "august bremicker söhne",
+        "rechte verstrickungen",
+        "ausbeutung",
+        "sexismus",
+        "neokolonialismus"
+      ],
+      "brand": "Abus",
+      "parent": "August Bremicker und Söhne KG (Familienunternehmen)",
+      "status": "YELLOW",
+      "reason": "Es gibt keine weit verbreiteten öffentlichen Berichte oder fundierte Anschuldigungen bezüglich rechter Verstrickungen, Sexismus oder Neokolonialismus gegen Abus. Obwohl das Unternehmen weltweit produziert und somit potenzielle Risiken in der Lieferkette bestehen, wie bei vielen global agierenden Herstellern, legt Abus einen Code of Conduct vor, der sich gegen Ausbeutung, Kinderarbeit und Diskriminierung ausspricht. Eine detaillierte unabhängige Überprüfung der gesamten Lieferkette ist öffentlich nicht umfassend verfügbar, was eine abschließende Bewertung erschwert.",
+      "sources": [
+        "https://www.abus.com/de/Ueber-ABUS/Unternehmen/Code-of-Conduct",
+        "https://www.abus.com/de/Ueber-ABUS/Unternehmen/Nachhaltigkeit",
+        "https://de.wikipedia.org/wiki/ABUS"
+      ],
+      "alternatives": [
+        {
+          "name": "Vaude",
+          "keyword": "vaude nachhaltigkeit"
+        },
+        {
+          "name": "Ortlieb",
+          "keyword": "ortlieb made in germany"
+        }
+      ]
     }
   ]
 }
