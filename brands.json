@@ -496,6 +496,38 @@
           "keyword": "bio zentrale"
         }
       ]
+    },
+    {
+      "keywords": [
+        "abus sicherheitstechnik",
+        "abus schlösser",
+        "abus fahrradschlösser",
+        "abus helme",
+        "abus smart home"
+      ],
+      "brand": "Abus",
+      "parent": null,
+      "status": "GREEN",
+      "reason": "Nach eingehender Recherche konnten keine öffentlichen und verifizierbaren Informationen gefunden werden, die Abus mit rechten Verstrickungen, Ausbeutung, Sexismus oder Neokolonialismus in Verbindung bringen. Obwohl umfassende Transparenzberichte zur globalen Lieferkette nicht vollständig öffentlich zugänglich sind, gibt es keine spezifischen Anschuldigungen oder Skandale zu den angefragten kritischen Punkten.",
+      "sources": [
+        "https://www.abus.com/de/",
+        "https://www.abus.com/de/Ueber-ABUS/Verantwortung",
+        "Umfassende Suchen in Nachrichtenarchiven und bei NGOs ergaben keine relevanten Berichte zu den angefragten ethischen Verfehlungen."
+      ],
+      "alternatives": [
+        {
+          "name": "Lokale Manufakturen",
+          "keyword": "sicherheitstechnik handgemacht regional"
+        },
+        {
+          "name": "Nachhaltige Fahrradprodukte",
+          "keyword": "fahrradschloss nachhaltig hergestellt"
+        },
+        {
+          "name": "Reparatur statt Neukauf",
+          "keyword": "schlossreparatur schlüsseldienst"
+        }
+      ]
     }
   ]
 }
