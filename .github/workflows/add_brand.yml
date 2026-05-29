@@ -1,4 +1,7 @@
 name: Auto Add Brand from Issue
+concurrency:
+  group: update-brands
+  cancel-in-progress: false
 on:
   issues:
     types: [opened]
